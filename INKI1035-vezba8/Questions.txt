@@ -1,0 +1,11 @@
+1 Koj e glaven grad na Makedonija? A)Prilep B)Skopje C)Bitola
+2 Kolku kontinenti ima na planetata Zemja? A)6 B)8 C)7
+3 Koja planeta e najbliska do sonceto? A)Merkur B)Venera C)Jupiter
+4 Koja planeta e treta vo Sonceviot sistem? A)Jupiter B)Saturn C)Zemja
+5 Za sto e poznat Lebron James? A)Kosarka B)Fudbal C)Tenis
+6 Koga e osnovana organizacijata na Obedinetite nacii? A)1955 B)1945 C)1965
+7 Koj e pretsedatel na Makedonija? A)Stevo Pendarovski B)Gjorge Ivanov C)Branko Crvenkovski
+8 Kolku bukvi ima makedonskata azbuka? A)30 B)29 C)31
+9 Koja drzava ima osvoeno najmnogu svetski prvenstva vo fudbal? A)Brazil B)Germanija C)Italija
+10 Koja drzava go osvoi svetskoto prventstvo vo fudbal vo 2022 godina? A)Argentina B)Makedonija C)Hrvatska
+
